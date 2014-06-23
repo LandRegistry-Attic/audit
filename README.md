@@ -1,3 +1,5 @@
+*WIP and descoped for now. Auditing will be effected via a simple log file in the mint.*
+
 # indifferent
 
 An opinionated means to store changes to Python data (lists, tuples, dicts, etc), see diffs or audit logs, and to roll back.
