@@ -1,6 +1,13 @@
+**Mat W. suggested we borrow a similar tool which HMRC have already developed.**
+
+TBD I can't see [which of the apps](https://github.com/hmrc) it could be.
+
+
+
+
 *WIP and descoped for now. Auditing will be effected via a simple log file in the mint.*
 
-# indifferent
+# Auditing as a service
 
 An opinionated means to store changes to Python data (lists, tuples, dicts, etc), see diffs or audit logs, and to roll back.
 
